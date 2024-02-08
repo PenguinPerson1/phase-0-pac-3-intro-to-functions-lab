@@ -10,7 +10,6 @@ function logShout(string){
 function logWhisper(string){
     console.log(whisper(string));
 }
-
 function sayHiToHeadphonedRoommate(string){
     switch (string) {
         case whisper(string):
